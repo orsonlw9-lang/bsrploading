@@ -1,0 +1,67 @@
+{
+  "serverName": "BlueStory Rp",
+  "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+  "discordUrl": "https://discord.gg/mxepG9Ht6h",
+  "tebexUrl": "",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+    "url": "https://discord.gg/mxepG9Ht6h"
+  },
+
+  "team": [
+    {
+      "name": "Kilo.gz",
+      "role": "Founder",
+      "avatar": "https://cdn.discordapp.com/attachments/1248055512411406387/1510423511339106385/Rnn.png?ex=6a240343&is=6a22b1c3&hm=bd6804b2ba068c15360facbd0352d48aba6f04aee42267f349073a12342e48a2&"
+    }
+  ],
+
+  "rules": [
+    "NO VDM",
+    "NO RDM",
+    "NO META GAMING",
+    "STAY IN CHARACTER",
+    "NO FAIL Rp"
+  ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+  ],
+
+  "music": [
+
+        {
+      "title": "BlueStory",
+      "artist": "RapMan",
+      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover.jpg",
+      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/bluestory.mp4"
+    },
+
+    
+    {
+      "title": "All These Funds",
+      "artist": "Clavish",
+      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/clav.png",
+      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/Clavish-AllTheseFunds.webm"
+    },
+
+    {
+      "title": "Move",
+      "artist": "Steppa x Drizz",
+      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover1.jpg",
+      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/steppaxdrizz.mp4"
+    },
+
+    {
+      "title": "Lebanese freestyle",
+      "artist": "Lkay80m",
+      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover2.jpg",
+      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/lebanese.mp4"
+    }
+  ]
+}
