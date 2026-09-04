@@ -38,37 +38,23 @@
     {
       "title": "BlueStory",
       "artist": "RapMan",
-      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/channels4_profile.jpg",
+      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover.jpg",
       "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/bluestory.mp4"
     },
 
         {
-      "title": "STUDIO WITH EMPRA",
-      "artist": "Loota",
-      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover.jpg",
-      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/LOOTA-STUDIOWITHEMPRA_1440p.mp4"
+      "title": "Dirty Lyfe",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/dirtylyfe.mp4"
     },
 
-    
-    {
-      "title": "All These Funds",
-      "artist": "Clavish",
-      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/clav.png",
-      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/Clavish-AllTheseFunds.webm"
-    },
 
-    {
-      "title": "Move",
-      "artist": "Steppa x Drizz",
-      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover1.jpg",
-      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/steppaxdrizz.mp4"
+                {
+      "title": "Uptown",
+      "artist": "Chy Cartier & Loski",
+      "cover": "https://i1.sndcdn.com/artworks-RlCfbtZgipgB-0-t500x500.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Loski%20%26%20Chy%20Cartier%20-%20Uptown%20%5BOfficial%20Music%20Video%5D%20%40LoskiOfficial%20%40CHYCARTIER%20%23Uptown%20-%20Loski%20Official%20(1080p).mp4"
     },
-
-    {
-      "title": "Lebanese freestyle",
-      "artist": "Lkay80m",
-      "cover": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/cover2.jpg",
-      "src": "https://r2.fivemanage.com/tW7eWsdXtatdsOMR9mcoI/lebanese.mp4"
-    }
   ]
 }
